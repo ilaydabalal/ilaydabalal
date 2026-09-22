@@ -43,15 +43,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
-
-## Öne Çıkan Projeler
-
-* **Dental Patoloji Tespit & Karar Destek Sistemi:** YOLOv8 ve büyük bir veri seti kullanarak panoramik diş röntgenlerinde otomatik patoloji tespiti yapan bitirme projesi.
-* **LLM Tabanlı Parfüm Öneri Platformu:** Selenium ile veri toplanarak oluşturulan veritabanı üzerinde, NLP ve LLM (Groq API) entegrasyonuyla çalışan öneri sistemi.
-* **Plaka Tanıma Sistemi:** Kamera görüntülerinden plaka tespiti, bölge ayrıştırma ve OCR adımlarını içeren görüntü işleme projesi.
-
----
 
 ## İletişim
 

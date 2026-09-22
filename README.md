@@ -10,8 +10,7 @@
 ## Hakkımda
 
 * Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum.
-* Selçuk Üniversitesi Bilgisayar Mühendisliği mezunuyum.
-* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda staj deneyimine sahibim.
+* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda deneyime sahibim.
 
 ---
 

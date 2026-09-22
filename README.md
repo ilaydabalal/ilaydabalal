@@ -9,8 +9,8 @@
 
 ## Hakkımda
 
-* Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum[cite: 13, 14].
-* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda deneyime sahibim[cite: 13].
+* Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum.
+* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda deneyime sahibim.
 
 ---
 
@@ -50,5 +50,5 @@
 
 ## İletişim
 
-* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal/)[cite: 13]
-* **E-posta:** ilaydabalal@gmail.com[cite: 13]
+* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal/)
+* **E-posta:** ilaydabalal@gmail.com

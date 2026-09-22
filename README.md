@@ -1,45 +1,60 @@
 <h1 align="center">İlayda Balal</h1>
-<h3 align="center">Bilgisayar Mühendisi | Yapay Zeka, Görüntü İşleme & Full-Stack Geliştirici</h3>
+<h3 align="center">Bilgisayar Mühendisi</h3>
 
 <p align="center">
-  Görüntü işleme, derin öğrenme, doğal dil işleme (NLP) ve modern web teknolojileri alanlarında çalışan bir bilgisayar mühendisiyim.
+  Görüntü işleme, derin öğrenme, doğal dil işleme (NLP) ve modern web teknolojileri alanlarında projeler geliştiren bilgisayar mühendisiyim.
 </p>
 
 ---
 
 ## Hakkımda
 
-* **Odak Alanları:** Görüntü İşleme (YOLO), Nesne Tespiti, NLP, LLM Entegrasyonu ve Full-Stack Web Geliştirme.
-* **Eğitim:** Selçuk Üniversitesi Bilgisayar Mühendisliği Lisans Mezunu (GANO: 3.24)[cite: 7].
-* **Deneyim:** Yüksek doğruluk oranına sahip yapay zeka modelleri geliştirme (YOLO11m-seg ile %97.5 mAP50) ve mühendislik yazılımlarını Python, Flask ve React ile modern web tabanlı mimarilere dönüştürme konusunda staj deneyimi[cite: 7].
-* **Hedef:** Akıllı yapay zeka sistemleri (Derin Öğrenme ve NLP) ile ölçeklenebilir altyapılar arasında köprü kurmak.
+* Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum.
+* Selçuk Üniversitesi Bilgisayar Mühendisliği mezunuyum.
+* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda staj deneyimine sahibim.
 
 ---
 
 ## Yetenekler & Araçlar
 
-* **Yapay Zeka & Veri Bilimi:** Python, YOLOv8/YOLO11, PyTorch, OpenCV, NLP, LLM, Orange, TensorRT, OpenVINO
-* **Programlama Dilleri:** Python, C# (.NET), PHP, JavaScript, TypeScript, SQL, HTML/CSS
-* **Backend, Web & Veritabanı:** Flask, React, RESTful API, MySQLi, SQLite
-* **DevOps & Diğer Araçlar:** Git/GitHub, Arduino, PCB Tasarımı, Qt Creator, MS Office
+### Yapay Zeka & Veri Bilimi
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### Programlama Dilleri & Web
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Veritabanı & Araçlar
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
-## Önemli Projeler
+## Öne Çıkan Projeler
 
-* **Panoramik Röntgenlerde YOLO Tabanlı Dental Patoloji Tespit & Karar Destek Sistemi (Bitirme Projesi):** 13.814 görüntülük veri seti ile YOLOv8 kullanarak panoramik diş röntgenlerinde 15 farklı patolojiyi otomatik tespit eden yapay zeka sistemi[cite: 7].
-* **LLM Tabanlı Parfüm Öneri ve Analiz Platformu:** Selenium web scraping ile 1000+ parfüm verisi toplanarak oluşturulan veritabanı üzerinde, NLP ve LLM (Groq API) entegrasyonu ile kullanıcı tercihlerine göre koku notaları çıkaran sistem[cite: 7].
-* **Görüntü İşleme Tabanlı Plaka Tanıma Sistemi:** Kamera görüntülerinden plaka tespiti, bölge ayrıştırma ve OCR adımlarını içeren uçtan uca sistem tasarımı[cite: 7].
+* **Dental Patoloji Tespit & Karar Destek Sistemi:** YOLOv8 ve büyük bir veri seti kullanarak panoramik diş röntgenlerinde otomatik patoloji tespiti yapan bitirme projesi.
+* **LLM Tabanlı Parfüm Öneri Platformu:** Selenium ile veri toplanarak oluşturulan veritabanı üzerinde, NLP ve LLM (Groq API) entegrasyonuyla çalışan öneri sistemi.
+* **Plaka Tanıma Sistemi:** Kamera görüntülerinden plaka tespiti, bölge ayrıştırma ve OCR adımlarını içeren görüntü işleme projesi.
 
 ---
 
 ## İletişim
 
-* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal-22a10027a/)[cite: 7]
-* **E-posta:** ilaydabalal@gmail.com[cite: 7]
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilaydabalal&show_icons=true&theme=transparent&hide_border=true" alt="İlayda's GitHub Stats" />
-</p>
+* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal-22a10027a/)
+* **E-posta:** ilaydabalal@gmail.com

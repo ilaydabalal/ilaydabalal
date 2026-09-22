@@ -9,18 +9,20 @@
 
 ## Hakkımda
 
-* Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum.
-* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda deneyime sahibim.
+* Görüntü işleme (YOLO), nesne tespiti, NLP, LLM entegrasyonu ve full-stack web geliştirme alanlarına odaklanıyorum[cite: 13, 14].
+* Yapay zeka modelleri geliştirme ve mühendislik yazılımlarını modern web mimarilerine taşıma konusunda deneyime sahibim[cite: 13].
 
 ---
 
 ## Yetenekler & Araçlar
 
-### Yapay Zeka & Veri Bilimi
+### Yapay Zeka & Görüntü İşleme
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVINO-0068B5?style=for-the-badge&logo=intel&logoColor=white" />
 </p>
 
 ### Programlama Dilleri & Web
@@ -35,16 +37,18 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Veritabanı & Araçlar
+### Veritabanı, Araçlar & Donanım
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+---
 
 ## İletişim
 
-* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal-22a10027a/)
-* **E-posta:** ilaydabalal@gmail.com
+* **LinkedIn:** [ilayda-balal](https://www.linkedin.com/in/ilayda-balal/)[cite: 13]
+* **E-posta:** ilaydabalal@gmail.com[cite: 13]
